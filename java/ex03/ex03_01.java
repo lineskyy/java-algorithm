@@ -1,4 +1,6 @@
 package org.java.ex03;
+// [3장 1번]
+// 다음 프로그램에 대해 물음에 답하라
 class Whiletest {
 	private int sum,i;
 	public Whiletest() {}
